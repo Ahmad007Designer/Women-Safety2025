@@ -19,6 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 hello coder---
 
 
-git add .
-git commit -m "any MEssage"
-git push origin main
+Command For Push Your File on Git
+1. git add .
+2. git commit -m "PRABHAKAR SINGH"
+3. git push origin main
